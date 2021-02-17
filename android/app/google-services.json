@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "323051401772",
+    "project_id": "ndawana-ecommerce-app",
+    "storage_bucket": "ndawana-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323051401772:android:87193300de16c7b0025789",
+        "android_client_info": {
+          "package_name": "com.ndawana.ndawana_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323051401772-nqpnods3tl7oic92dfq063lm8vqvocmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ndawana.ndawana_app",
+            "certificate_hash": "99a37a116ee47df62d8e57a290ff2a132ea366e1"
+          }
+        },
+        {
+          "client_id": "323051401772-gcd2c57m5pu45e21on2jhr1nlr2eto7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJ3XvkHOvoRaaG1nMDTn30_sXQVIuk5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323051401772-gcd2c57m5pu45e21on2jhr1nlr2eto7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
